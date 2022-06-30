@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'MFPE-Portfolio-Pod2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DCA7E1D641F3476EB7554C23023F556F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9D43471FCF7443FB9CC4D2A34C08EE63 }}
           package: .
